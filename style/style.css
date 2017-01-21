@@ -1,4 +1,8 @@
-.name {
+.hal .name {
   background-color: black;
   color: red;
+}
+
+.dave .name {
+  background-color: red;
 }
