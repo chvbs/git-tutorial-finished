@@ -6,3 +6,7 @@
 .dave .name {
   background-color: red;
 }
+
+.monolith .name {
+  background: #aaa;
+}
